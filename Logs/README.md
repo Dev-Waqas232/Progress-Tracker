@@ -9,3 +9,7 @@
 
 ✅ Started Chapter 1 of The Pragmatic Programmer Book
 ✅ Worked on guessing game in rust by following rust lang book
+
+## 🗓️ April 4, 2025
+
+✅ Completed guessing game in rust
