@@ -17,3 +17,8 @@
 ## 🗓️ April 7, 2025
 
 - ✅ Learn about variables, consts and shadowing in rust
+
+## 🗓️ April 8, 2025
+
+- ✅ Learn about data types ( scalar and compound ) in rust
+- ✅ Completed Chapter 3 of Python and DSA
