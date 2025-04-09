@@ -22,3 +22,8 @@
 
 - ✅ Learn about data types ( scalar and compound ) in rust
 - ✅ Completed Chapter 3 of Python and DSA
+
+## 🗓️ April 9, 2025
+
+- ✅ Setup Vibenet project
+- ✅ Learn about functions and comments in rust
