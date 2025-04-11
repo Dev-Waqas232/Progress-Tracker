@@ -18,7 +18,7 @@
 ### 🔧 Tech Stack
 
 - **Frontend**: React.js with Typescript, ReactQuery for handling APIs, tailwind css for styling
-- **Backend**: Express.js
+- **Backend**: NestJS
 - **Database**: MongoDB
 - **Auth**: JWT + Refresh Tokens
 - **Real-time**: Socket.IO

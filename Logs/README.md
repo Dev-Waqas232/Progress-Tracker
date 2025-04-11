@@ -27,3 +27,9 @@
 
 - ✅ Setup Vibenet project
 - ✅ Learn about functions and comments in rust
+
+## 🗓️ April 10, 2025
+
+- ✅ Setup Chatsphere project with mern stack
+- ✅ Created deployment for both frontend + backend
+- ✅ Changed Vibenet backend from Node.js to NestJS
